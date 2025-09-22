@@ -6,7 +6,7 @@
   - 基本的なフォルダ構造とTypeScript設定
   - _要件: 7.1, 7.2_
 
-- [ ] 2. データベーススキーマとRLS設定
+- [x] 2. データベーススキーマとRLS設定
   - PostgreSQL + PostGIS拡張の有効化
   - プロフィール、GPSトラック、ライドイベントテーブルの作成
   - Row Level Security（RLS）ポリシーの実装
